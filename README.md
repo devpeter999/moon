@@ -6,7 +6,7 @@
 
 **MOON** is an open-source protocol built on Stellar that enables developers to instantly monetize any API endpoint using the **x402** machine-to-machine payment standard.
 
-> This project is currently a foundational scaffold for the **Drips Wave** hackathon/contribution program. We've implemented the core flow and are actively looking for contributors to help build out the full vision!
+<!-- > This project is currently a foundational scaffold for the **Drips Wave** hackathon/contribution program. We've implemented the core flow and are actively looking for contributors to help build out the full vision! -->
 
 ---
 
